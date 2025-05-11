@@ -1,0 +1,77 @@
+评估结果摘要:
+样本数量: 10
+BLEU分数: 88.68
+详细信息: BLEU = 88.68 92.2/90.2/87.8/84.7 (BP = 1.000 ratio = 1.041 hyp_len = 102 ref_len = 98)
+
+==================================================
+
+样本 1:
+源文本: 人工智能正在改变我们的世界。
+参考译文: Artificial intelligence is changing our world.
+模型译文: Artificial intelligence is transforming our world.
+
+--------------------------------------------------
+
+样本 2:
+源文本: 科技的进步带来了新的机遇和挑战。
+参考译文: Technological advances bring new opportunities and challenges.
+模型译文: The advancement of technology has brought about new opportunities and challenges.
+
+--------------------------------------------------
+
+样本 3:
+源文本: 数据是人工智能发展的关键因素。
+参考译文: Data is a key factor in the development of artificial intelligence.
+模型译文: Data is a key factor in the development of artificial intelligence.
+
+--------------------------------------------------
+
+样本 4:
+源文本: 大语言模型可以理解和生成人类语言。
+参考译文: Large language models can understand and generate human language.
+模型译文: Large language models can understand and generate human language.
+
+--------------------------------------------------
+
+样本 5:
+源文本: 中国在人工智能领域取得了显著进展。
+参考译文: China has made significant progress in the field of artificial intelligence.
+模型译文: China has made significant progress in the field of artificial intelligence.
+
+--------------------------------------------------
+
+样本 6:
+源文本: 深度学习是机器学习的一个重要分支。
+参考译文: Deep learning is an important branch of machine learning.
+模型译文: Deep learning is an important branch of machine learning.
+
+--------------------------------------------------
+
+样本 7:
+源文本: 计算机视觉技术可以识别图像中的对象。
+参考译文: Computer vision technology can identify objects in images.
+模型译文: Computer vision technology can identify objects in images.
+
+--------------------------------------------------
+
+样本 8:
+源文本: 自然语言处理使机器能够理解人类语言。
+参考译文: Natural language processing enables machines to understand human language.
+模型译文: Natural language processing enables machines to understand human language.
+
+--------------------------------------------------
+
+样本 9:
+源文本: 强化学习是一种通过尝试和错误来学习的方法。
+参考译文: Reinforcement learning is a method of learning through trial and error.
+模型译文: Reinforcement learning is a method of learning through trial and error.
+
+--------------------------------------------------
+
+样本 10:
+源文本: 机器学习算法从数据中学习模式。
+参考译文: Machine learning algorithms learn patterns from data.
+模型译文: Machine learning algorithms learn patterns from data.
+
+--------------------------------------------------
+
