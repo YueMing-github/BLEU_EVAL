@@ -11,7 +11,7 @@ def parse_args():
     parser.add_argument(
         "--model_path", 
         type=str, 
-        default="/Users/bytedance/Downloads/qwen2.5-7b-cpt-policy",
+        default="/Users/bytedance/Desktop/BLEU_EVAL/models/Qwen2.5-7B-Instruct",
         help="模型路径"
     )
     parser.add_argument(
